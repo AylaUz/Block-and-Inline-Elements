@@ -4,7 +4,7 @@
 This is a simple HTML and CSS project showing how HTML block and inline elements behave.
 
 <h2>What I Learned</h2>
-While working on this simple project, I learnt the difference between block and inline elements. I also learnt which HTML elements are block elements like <div>, <p>. These elements always appear on a new line and they take up the entire width of the page while the inline elements such as links<a>, spans<span>, images<img> sit on the same line, they do not overflow to a new line except.
+While working on this simple project, I learnt the difference between block and inline elements. I also learnt which HTML elements are block elements like div, p. These elements always appear on a new line and they take up the entire width of the page while the inline elements such as links 'a href', spans 'span', images 'img' sit on the same line, they do not overflow to a new line except.
 
 <h2>Project Structure</h2>
 BLOCK-AND-INLINE-ELEMENTS
